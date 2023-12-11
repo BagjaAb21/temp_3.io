@@ -49,17 +49,23 @@
     color: #000;
   }
   
-  .faq-list li:hover {
+  /* .faq-list li:hover {
     color: #009933;
-  }
+  } */
   
   .faq-list .faq-content {
     display: none;
     background-color: #fff;
     padding: 1rem;
     border: 1px solid #ccc;
+    border-radius: 1rem;
     margin-bottom: 1rem;
+    animation: ease-out 0.75s;
   }  
   
 
   /* End FAQ Section */
+
+  .foot {
+    margin-top: -3rem;
+  }
