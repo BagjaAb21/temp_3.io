@@ -69,3 +69,59 @@
   .foot {
     margin-top: -3rem;
   }
+
+
+  /* star img */
+
+  /* .star-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.star {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 5px;
+    animation: star-twinkle 3s infinite alternate;
+}
+
+#star1 {
+    animation-delay: 1s;
+}
+
+#star2 {
+    animation-delay: 2s;
+}
+
+#star3 {
+    animation-delay: 3s;
+}
+
+@keyframes planet-move {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+@keyframes star-twinkle {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+} */
+
+  /* End star img */
